@@ -1,4 +1,4 @@
-# Lyft System Design Project
+# Lyft System FORAGE Design Project
 
 ## Overview
 This project simulates the creation and servicing of various car models using object-oriented principles. The project includes different car components like engines and batteries, allowing for modular and flexible design. The system also incorporates testing to ensure each car model is correctly constructed and serviced.
